@@ -7,3 +7,5 @@ Este é o meu primeiro projeto utilizando o **Git** e **Github**.
 - Adicionando arquivo soma.py
 
 - Adicionada nova branch
+
+- Adicionada uma nova funcionalidade
